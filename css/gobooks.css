@@ -1171,13 +1171,13 @@ select:focus:required:invalid:focus {
 
 
 /*
-Python Books Styles
+Go Books Styles
 */
 
 
 body {
   padding-top: 115px;
-  background-color: #f6f6f6;
+  background-color: #ffffff;
   background-attachment: fixed;
   font-family: 'Gentium Book Basic', serif;
   color: #1a1a1a;
@@ -1186,7 +1186,7 @@ body {
   height: 95px;
   padding: 10px 0;
   background-color: #dddbdb;
-  background: rgba(221, 219, 219,.9);
+  background: rgba(224,235,245,.9);
   border-bottom: 1px solid white;
   text-align: center;
 }
