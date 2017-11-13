@@ -1,0 +1,21 @@
+{
+    "books": [{
+            "title": "The Little Go Book",
+            "author": "Karl Seguin",
+            "authorUrl": "http://openmymind.net",
+            "level": "Beginner",
+            "info": "The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. .",
+            "url": "http://openmymind.net/The-Little-Go-Book/",
+            "cover": "img/book_covers/little_go_book.png"
+        },
+        {
+            "title": "An Introduction to Programming in Go",
+            "author": "Caleb Doxsey",
+            "authorUrl": "https://www.doxsey.net/",
+            "level": "Beginner",
+            "info": "A short, concise introduction to computer programming using the language Go.",
+            "url": "http://www.golang-book.com/books/intro",
+            "cover": "img/book_covers/intro_to_programming_go.png"
+        }
+    ]
+}
