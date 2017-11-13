@@ -16,6 +16,15 @@
             "info": "A short, concise introduction to computer programming using the language Go.",
             "url": "http://www.golang-book.com/books/intro",
             "cover": "img/book_covers/intro_to_programming_go.png"
+        },
+        {
+            "title": "Building Web Apps with Go",
+            "author": "Jeremy Saenz",
+            "authorUrl": "https://github.com/codegangsta",
+            "level": "Intermediate",
+            "info": "An introduction for building Web Apps with Go.",
+            "url": "https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details",
+            "cover": "img/book_covers/building_webapps_with_go.png"
         }
     ]
 }
