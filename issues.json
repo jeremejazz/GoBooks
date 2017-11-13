@@ -25,6 +25,15 @@
             "info": "An introduction for building Web Apps with Go.",
             "url": "https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details",
             "cover": "img/book_covers/building_webapps_with_go.png"
+        },
+        {
+            "title": "Build Web Application with Golang",
+            "author": "astaxie",
+            "authorUrl": "https://github.com/astaxie",
+            "level": "Intermediate",
+            "info": "For those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go.",
+            "url": "https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details",
+            "cover": "img/book_covers/build_web_application_with_golang.jpg"
         }
     ]
 }
