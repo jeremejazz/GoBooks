@@ -1,3 +1,6 @@
+
+![GoBooks](img/logo_gobooks.png)
+
 # GoBooks
 
 *!This is currently a work in progress. Feel free to help though if you like.*
@@ -19,7 +22,7 @@ If you find a nice ebook about Go, feel free to fork GoBooks and add it in a few
 - Make a pull request.
 
 
-Alternatively, you can send me a message : http://jeremecausing.com/contact/
+Alternatively, you can create a send me a message : http://jeremecausing.com/contact/
 
 Thanks per advance !
 
