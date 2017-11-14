@@ -52,6 +52,15 @@
             "info": "A short guide to Test-driven development in golang.",
             "url": "https://leanpub.com/golang-tdd",
             "cover": "img/book_covers/tdd_with_go.png"
+        },
+        {
+            "title": "Practical Cryptography with Go",
+            "author": "Kyle Isom",
+            "authorUrl": "https://twitter.com/kyleisom",
+            "level": "Intermediate",
+            "info": "This is an introduction to cryptography for developers. It assumes that you aren't looking for cryptographic theories, but practical ways to use cryptography in your projects.",
+            "url": "https://leanpub.com/gocrypto/read",
+            "cover": "img/book_covers/practical_cryptography_with_go.png"
         }
     ]
 }
