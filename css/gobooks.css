@@ -112,18 +112,18 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 13px;
   line-height: 18px;
   color: #333333;
   background-color: #ffffff;
 }
 a {
-  color: #0088cc;
+  color: #375EAB;
   text-decoration: none;
 }
 a:hover {
-  color: #005580;
+  /* color: #005580; */
   text-decoration: underline;
 }
 .row {
@@ -953,7 +953,7 @@ input {
   line-height: 18px;
 }
 input {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 input[type="email"] {
   display: inline-block;
@@ -1196,7 +1196,7 @@ body {
   text-shadow: 0 1px 0 white;
 }
 #headerlink, .footer p, #footerlink {
-font: normal 10px 'Ubuntu', Helvetica, Arial, sans-serif;
+font: normal 10px Arial, sans-serif;
 color: #aaa;
 text-shadow: 1px 0 1px rgba(255, 255, 255, 0.8);
 margin-top: 5px;
@@ -1211,7 +1211,7 @@ margin-top: 5px;
 }
 a.jsbookslinks {
   color: #bcbcbc;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
   margin: 0 0 20px 0;
 }
@@ -1272,7 +1272,7 @@ a.jsbookslinks {
 }
 .booksection p.level {
   font-size: 11px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 .booksection p.description {
   height: 128px;
@@ -1317,7 +1317,7 @@ h4 {
   text-transform: uppercase;
   line-height: 14px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  color: #366d9c;
+  color: #375EAB;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1401,7 +1401,7 @@ ul#social_buttons li a:hover {
   margin-bottom: 9px;
 }
 .footer p; .footer a {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 10px;
 }
 /* RESPONSIVE LAYOUT */
