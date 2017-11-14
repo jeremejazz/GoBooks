@@ -34,6 +34,24 @@
             "info": "For those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go.",
             "url": "https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details",
             "cover": "img/book_covers/build_web_application_with_golang.jpg"
+        },
+        {
+            "title": "Learning Go",
+            "author": "Miek Gieben",
+            "authorUrl": "https://www.miek.nl",
+            "level": "Beginner",
+            "info": "A online book to start learning Golang. It features numerous exercises (and answers).",
+            "url": "https://www.miek.nl/go/",
+            "cover": "img/book_covers/learning_go.png"
+        },
+        {
+            "title": "Test-driven development with Go",
+            "author": "Yigal Duppen",
+            "authorUrl": "http://blog.publysher.nl/",
+            "level": "Advanced",
+            "info": "A short guide to Test-driven development in golang.",
+            "url": "https://leanpub.com/golang-tdd",
+            "cover": "img/book_covers/tdd_with_go.png"
         }
     ]
 }
