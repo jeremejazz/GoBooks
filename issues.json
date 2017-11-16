@@ -70,6 +70,16 @@
             "info": "Go by Example is a hands-on introduction to Go using annotated example programs. Here you can effectively learn Go through doing the example source. Complete with links to Go Playground.",
             "url": "https://gobyexample.com",
             "cover": "img/book_covers/go_by_example.png"
+        },
+        {
+            "title": "Go Bootcamp",
+            "author": "Matt Aimonetti",
+            "authorUrl": "https://matt.aimonetti.net/",
+            "level": "Beginner",
+            "info": "Everything you know to get started with Go",
+            "url": "https://www.softcover.io/downloads/88e295ad/GoBootcamp",
+            "cover": "img/book_covers/go_bootcamp.png"
         }
+
     ]
 }
