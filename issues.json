@@ -72,14 +72,24 @@
             "cover": "img/book_covers/go_by_example.png"
         },
         {
-            "title": "Go Bootcamp",
-            "author": "Matt Aimonetti",
-            "authorUrl": "https://matt.aimonetti.net/",
+            "title": "Learning Go Programming",
+            "author": "Vladimir Vivien",
+            "authorUrl": "https://github.com/vladimirvivien",
             "level": "Beginner",
-            "info": "Everything you know to get started with Go",
-            "url": "https://www.softcover.io/downloads/88e295ad/GoBootcamp",
-            "cover": "img/book_covers/go_bootcamp.png"
+            "info": "This is a step-by-step, practical guide full of real world examples to help you get started with Go in no time at all (requires free registration)",
+            "url": "https://www.packtpub.com/free-ebook/learning-go-programming",
+            "cover": "img/book_covers/learning_go_programming.png"
+        },
+        {
+            "title": "Essential Go",
+            "author": "Krzysztof Kowalczyk",
+            "authorUrl": "https://blog.kowalczyk.info/",
+            "level": "Beginner",
+            "info": "A collaborative project based on a now retired Stack Overflow Documentation which ended in August 2017. A comprehensive documentation with links to Goplay.space",
+            "url": "https://www.programming-books.io/essential/go/",
+            "cover": "img/book_covers/essential_go.png"
         }
+
 
     ]
 }
